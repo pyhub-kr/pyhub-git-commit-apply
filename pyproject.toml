@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pyhub_git_commit_apply"
-version = "0.2.0"
+version = "0.4.0"
 description = "A tool to download and apply changes from a GitHub commit URL"
 readme = "README.md"
 license = { file = "LICENSE" }
